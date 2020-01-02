@@ -9,7 +9,7 @@
 ## Dev
 
 ### Add pre-commit hooks 
-We use pre commit hooks to run automatically =black= and =mypy= on commit.
+We use pre commit hooks to run automatically `black` and `mypy` on commit.
 
 run `poetry run pre-commit install` to set up the git hooks script
 
