@@ -3,7 +3,7 @@
 [![PyPI](https://img.shields.io/pypi/v/kuisine-cli.svg)](https://pypi.org/project/kuisine-cli/)
 [![Build Status](https://github.com/yafeunteun/kuisine-cli/workflows/CI/badge.svg)](https://github.com/yafeunteun/kuisine-cli/actions)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-
+[![MIT license](https://badgen.net/badge/License/MIT/blue)](https://github.com/yafeunteun/kuisine-cli/blob/master/license)
 
 
 ## Dev
