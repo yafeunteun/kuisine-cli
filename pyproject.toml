@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "kuisine-cli"
-version = "0.1.0"
+version = "0.1.1"
 description = "Command line interface for kuisine.ru"
 authors = ["Yann Feunteun <yann.feunteun@protonmail.com>"]
 license = "MIT"
