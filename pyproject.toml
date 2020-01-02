@@ -4,6 +4,19 @@ version = "0.1.0"
 description = "Command line interface for kuisine.ru"
 authors = ["Yann Feunteun <yann.feunteun@protonmail.com>"]
 license = "MIT"
+readme = "README.md"
+packages = [
+    { include = "kuisine" }
+]
+repository = "https://github.com/yafeunteun/kuisine-cli"
+homepage = "https://github.com/yafeunteun/kuisine-cli"
+classifiers=[
+    "Environment :: Console",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3"
+]
+keywords = ["diet", "fitness", "sport", "nutrition", "meal-planning", "cli", "health"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
